@@ -1,0 +1,7 @@
+agno
+groq
+numpy
+python-dotenv
+pyttsx3
+sounddevice
+SpeechRecognition
